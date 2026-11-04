@@ -15,7 +15,7 @@ Comparar series, montar gráficas, entrenar modelos o comprobar si una carta est
 
 Cada carta tiene su ficha con histórico, media de 30 días y mínimo en:
 
-**https://carlespeadel-bit.github.io**
+**https://valorcarta.github.io**
 
 ## Aviso
 
